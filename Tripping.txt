@@ -1,0 +1,7 @@
+class Tripping{
+public static void main(String args[])
+{
+Palace.noPalace();
+Palace.working();
+}
+}
